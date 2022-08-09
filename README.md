@@ -118,7 +118,7 @@ Feel free to review the [Phase 2 Project Description](https://github.com/learn-c
 
 Recall that the Jupyter Notebook is a notebook that uses Python and Markdown to present your analysis to a ***data analyst audience***. You will submit the notebook in `.ipynb` format on Canvas.
 
-We recommend that you follow this structure, with new elements listed in **bold**:
+We recommend that you follow this structure:
 
 * Business Understanding
 * Data Understanding
